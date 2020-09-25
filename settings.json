@@ -1,0 +1,20 @@
+{
+"editor.fontFamily": "Fira Code",
+"editor.fontLigatures": true,
+"nightswitch.themeDay": "Bluloco Light",
+"nightswitch.themeNight": "Material Theme",
+"nightswitch.location": "30.57, 104.07",
+"workbench.colorTheme": "Bluloco Light",
+"workbench.colorCustomizations": {
+    "editorError.foreground": "#ff6659"
+},
+
+"extensions.ignoreRecommendations": false,
+"workbench.startupEditor": "newUntitledFile",
+"editor.suggestSelection": "first",
+"vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+"python.jediEnabled": false,
+"terminal.integrated.inheritEnv": false,
+"terminal.integrated.shell.osx": "/bin/zsh",
+"python.languageServer": "Microsoft"
+}

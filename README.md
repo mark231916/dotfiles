@@ -7,3 +7,9 @@ My configuration for mac
 ## Zsh
 - Use `oh-my-zsh` as package manager
 - Use `starship` prompt
+
+## VSCode
+### Plugins:
+- nightswitch
+- material theme
+- bluloco light
